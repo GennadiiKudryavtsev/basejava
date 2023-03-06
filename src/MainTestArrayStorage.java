@@ -8,7 +8,7 @@ public class MainTestArrayStorage {
         Resume r1 = new Resume();
         r1.uuid = "uuid1";
         Resume r2 = new Resume();
-        r2.uuid = "uuid2";
+//        r2.uuid = "uuid2";
         Resume r3 = new Resume();
         r3.uuid = "uuid3";
 
